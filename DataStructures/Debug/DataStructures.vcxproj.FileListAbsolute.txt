@@ -1,0 +1,2 @@
+C:\Users\thoma\Desktop\Data_Structures\DataStructures\Debug\DataStructures.exe
+C:\Users\thoma\Desktop\Data_Structures\DataStructures\Debug\DataStructures.pdb

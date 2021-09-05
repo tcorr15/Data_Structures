@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\thoma\Desktop\Data_Structures\DataStructures\main.cpp(79,15): warning C4101: 'e': unreferenced local variable
+C:\Users\thoma\Desktop\Data_Structures\DataStructures\main.cpp(99,15): warning C4101: 'e': unreferenced local variable
+  DataStructures.vcxproj -> C:\Users\thoma\Desktop\Data_Structures\DataStructures\Debug\DataStructures.exe
